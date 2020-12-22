@@ -11,5 +11,6 @@ public  class Main {
         System.out.println("The name of big cat is " + bigCat.getName());
         System.out.println("The name of small cat is " + smallCat.getName());
         barsik.meow();
+        barsik.meow();
     }
 }
